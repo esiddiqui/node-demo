@@ -5,7 +5,7 @@ A simple project to play with node.js capabilities
 ## Setup
 Clone the project 
 ```
-%git clone <path>
+% git clone <path>
 ```
 Then install all depdencies
 ```
