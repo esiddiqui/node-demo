@@ -10,5 +10,6 @@ module.exports = {
      */
     findAll: function (db, callback) {
         db.collection('employee').find().toArray(callback);
-    }
+    },
+
 }
